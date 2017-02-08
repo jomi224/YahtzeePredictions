@@ -1,0 +1,7 @@
+Author: Jacob Miller
+
+Description: This is a set of tools so that a user can make the appropriate decisions when playing the game of yahtzee, e.g., should you use your roll of 5, 5, 5, 5, 3 for your four of a kind, 3 of a kind, risk, or fives. It will use decision trees and probablities to make suggestions that will hopefully be able to improve my ability to win at Yahtzee
+
+Uses: These tools will be developed using Python 3.5, I assume I will be using the random library and possibly the math library
+
+Project Started: February 8th, 2016

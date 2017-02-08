@@ -1,0 +1,3 @@
+#Function decision
+#Description: this will be the crucial function in the decision-making, it will take as input the users current score-card, current five-dice roll, and the number of rolls the user has done in their turn, and then output which dice to re-roll and which category to aim for
+
