@@ -1,3 +1,21 @@
 #Function decision
-#Description: this will be the crucial function in the decision-making, it will take as input the users current score-card, current five-dice roll, and the number of rolls the user has done in their turn, and then output which dice to re-roll and which category to aim for
+#Description: this will be the crucial function in the decision-making, it will take as input the user's current score-card, current five-dice roll, and the number of rolls the user has done in their turn, and then output which dice to re-roll and which category to aim for
+
+	#Go through score card and find remaining places to play
+	#Find probability of reaching each state
+	#Find value associated with each play
+	#Recommend which dice to re-roll
+
+#Function odds1roll
+#Description: takes as input a 5-dice roll, the dice intended to re-roll, and a goal. It then outputs the odds of reaching that goal in one re-roll.
+
+
+#Function: estimateBonus
+#Description: estimates the odds of reaching the 35 point bonus achieved when reaching the minimum threshold in the upper half of the score sheet
+
+
+#Function: playChoice
+#Description: takes as input the final roll of the dice, and then outputs where to place those dice
+
+
 
