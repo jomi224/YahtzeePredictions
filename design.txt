@@ -19,3 +19,10 @@
 
 
 
+#class: scoreboard
+#contains all the current scores by the user and where they have put their points in
+
+
+#class: dice_roll
+#contains the current roll of the dice in sorted order to keep consistent
+
